@@ -1,0 +1,6 @@
+tensorflow
+streamlit
+pandas
+sklearn
+pickle
+numpy
